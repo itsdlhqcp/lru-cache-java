@@ -1,3 +1,11 @@
+FIRST TEST :-
+CLONE IT ---->> THEN GO TO CD REPO
+./gradlew test
+
+./gradlew build
+gradlew.bat build
+./gradlew test --info
+
 # Introduction
 **NOTE: Utilizing programming help tools like ChatGPT or Copilot, as well as installing additional packages, is strictly prohibited.**
 
